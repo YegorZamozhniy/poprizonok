@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Poprizonok1\Poprizonok1\obj\Debug\Poprizonok1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Poprizonok1\Poprizonok1\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Poprizonok1\Poprizonok1\obj\Debug\SecondWindow.g.cs
+C:\Users\user\source\repos\Poprizonok1\Poprizonok1\obj\Debug\App.g.cs
+C:\Users\user\source\repos\Poprizonok1\Poprizonok1\obj\Debug\Poprizonok1_MarkupCompile.cache
+C:\Users\user\source\repos\Poprizonok1\Poprizonok1\obj\Debug\Poprizonok1_MarkupCompile.lref
+C:\Users\user\source\repos\Poprizonok1\Poprizonok1\bin\Debug\Poprizonok1.exe.config
+C:\Users\user\source\repos\Poprizonok1\Poprizonok1\bin\Debug\Poprizonok1.exe
+C:\Users\user\source\repos\Poprizonok1\Poprizonok1\bin\Debug\Poprizonok1.pdb
+C:\Users\user\source\repos\Poprizonok1\Poprizonok1\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\Poprizonok1\Poprizonok1\obj\Debug\SecondWindow.baml
+C:\Users\user\source\repos\Poprizonok1\Poprizonok1\obj\Debug\Poprizonok1.g.resources
+C:\Users\user\source\repos\Poprizonok1\Poprizonok1\obj\Debug\Poprizonok1.Properties.Resources.resources
+C:\Users\user\source\repos\Poprizonok1\Poprizonok1\obj\Debug\Poprizonok1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Poprizonok1\Poprizonok1\obj\Debug\Poprizonok1.exe
+C:\Users\user\source\repos\Poprizonok1\Poprizonok1\obj\Debug\Poprizonok1.pdb
